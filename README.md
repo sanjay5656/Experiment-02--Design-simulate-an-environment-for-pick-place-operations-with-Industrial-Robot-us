@@ -97,15 +97,12 @@ r.ProgSave(r"""C:/Users/LokiUday/OneDrive/Documents/RoboDK""",r"""PICKANDPLACE""
   
 SIMULATION :
 
-![kinee4op1](https://user-images.githubusercontent.com/115128955/201004990-fc558189-9e9f-442b-b143-7d4554a094fd.png)
+![kinematics4im1](https://user-images.githubusercontent.com/115128955/201007109-7797b1d0-13c3-40e7-a89a-12362a526a07.png)
 
-![kinee4op2](https://user-images.githubusercontent.com/115128955/201005037-137ba3a6-1291-4757-9c3d-1f2c3fb7cef9.png)
+![kinematics4im2](https://user-images.githubusercontent.com/115128955/201007119-98cfe6c4-6da6-42a8-bb8e-c21e602345ba.png)
 
-![kinee4op3](https://user-images.githubusercontent.com/115128955/201005055-5e35a7f4-f856-4570-aab9-62ebf10d1d24.png)
+![kinematics4im3](https://user-images.githubusercontent.com/115128955/201007126-694d0c3b-4663-489a-b5b9-e352fc142889.png)
 
-![kinee4op4](https://user-images.githubusercontent.com/115128955/201005092-fe209959-096f-4689-b58d-238e7e73e46f.png)
-
-![kinee4op5](https://user-images.githubusercontent.com/115128955/201005104-0ca20966-8b78-4ff9-8880-0cba7bf9bdbc.png)
 
 ### RESULTS :  
 Thus, an environment for pick & place operations with Industrial Robot using Robo DK software is designed and simulated.
